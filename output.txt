@@ -1,0 +1,29 @@
+Object iterated using For loop
+IBM
+Wipro
+
+Object iterated using for in
+name
+experience
+education
+projects
+
+Iterated using for of
+{ projectName: 'Project_1', githubLink: 'dummy_link.git' }
+{ projectName: 'Project_2', githubLink: 'dummy_link.git' }
+
+Iterated using forEach
+{
+  title: 'B.E',
+  course: 'ECE',
+  grade: 7.3,
+  college: 'MNMJEC',
+  affiliation: 'Anna University'
+}
+{
+  title: '12th',
+  course: 'Computer Science',
+  grade: 8.1,
+  school: 'BASS',
+  board: 'CBSE'
+}
